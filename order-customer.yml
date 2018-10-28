@@ -14,5 +14,5 @@ spring:
     database: mysql
   application:
     name: order-customer
-server:
-  port: 8085
+
+hehe: zhao
